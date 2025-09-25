@@ -1,1 +1,0 @@
-export const DB_NMAE = "Chat_App_DB"
