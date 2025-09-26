@@ -14,10 +14,10 @@ const userSchema = new Schema ({
         type:String,
         required:[true,'Password is required']
     },
-    avatar:{
-        type:String,   // url from cloudinary
-        required:true
-    },
+    // avatar:{
+    //     type:String,   // url from cloudinary
+    //     required:true
+    // },
     isOnline:{
         type:Boolean
     },
