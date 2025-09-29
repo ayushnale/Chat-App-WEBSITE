@@ -138,7 +138,7 @@ const logoutUser = asyncHandler ( async (req,res) => {
             {
                 logout
             },
-            "User logged In Successfully"
+            "User logout Successfully"
         )
     )
 
